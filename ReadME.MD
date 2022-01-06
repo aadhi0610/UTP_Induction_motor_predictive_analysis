@@ -1,6 +1,6 @@
 # Dataset
 
-Unfortunately, the Data for the associated research is protected my an NDS and is property of Petronas Malaysia.
+Unfortunately, the Data for the associated research is protected by an NDS and is property of Petronas Malaysia.
 
 ## Link to research manuscript
 
